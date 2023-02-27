@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01168cd4-f199-493a-8f53-9cf8f3efe202" name="Changes" comment="" />
+    <list default="true" id="6f6b12aa-4b6f-451e-8938-660c643e62b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_26/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2_26/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +25,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MHUwD0LdI03hPsnQhhsN7Z522f" />
+  <component name="ProjectId" id="2MKJ6EVwSi9PGEDoU9gLyIOzEvY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,17 +40,27 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="01168cd4-f199-493a-8f53-9cf8f3efe202" name="Changes" comment="" />
-      <created>1677424240187</created>
+      <changelist id="6f6b12aa-4b6f-451e-8938-660c643e62b3" name="Changes" comment="" />
+      <created>1677510165058</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677424240187</updated>
-      <workItem from="1677424241655" duration="1398000" />
-      <workItem from="1677510139650" duration="25000" />
+      <updated>1677510165058</updated>
+      <workItem from="1677510166303" duration="1351000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
