@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd2b4b28-fefc-424e-bd89-2dba7d8bab8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../3_4/src/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dcf7cee3-76a4-4a67-98a1-8cae928fd650" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,18 +20,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MVh5GGVcZyH6hn5jLK7mz7lrYY" />
+  <component name="ProjectId" id="2MXR0pD7AG18hYS4KWPlUBUX3sA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,12 +38,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd2b4b28-fefc-424e-bd89-2dba7d8bab8d" name="Changes" comment="" />
-      <created>1677858474196</created>
+      <changelist id="dcf7cee3-76a4-4a67-98a1-8cae928fd650" name="Changes" comment="" />
+      <created>1677911722884</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677858474196</updated>
-      <workItem from="1677858475316" duration="2468000" />
+      <updated>1677911722884</updated>
+      <workItem from="1677911724166" duration="1555000" />
     </task>
     <servers />
   </component>
