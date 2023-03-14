@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8557cc01-910f-41f5-ade0-9136144b3731" name="Changes" comment="" />
+    <list default="true" id="a4e9bf7d-6f05-4c90-b16c-3eea406da5d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MxnQphjiEE8kbakWHhiBc5jzf7" />
+  <component name="ProjectId" id="2MzziW8tHaZjSS0l8Z2oJsatRvl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,30 +35,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="3_13" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8557cc01-910f-41f5-ade0-9136144b3731" name="Changes" comment="" />
-      <created>1678718090680</created>
+      <changelist id="a4e9bf7d-6f05-4c90-b16c-3eea406da5d4" name="Changes" comment="" />
+      <created>1678785328375</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678718090680</updated>
-      <workItem from="1678718092278" duration="2753000" />
-      <workItem from="1678785310100" duration="18000" />
+      <updated>1678785328375</updated>
+      <workItem from="1678785329794" duration="933000" />
     </task>
     <servers />
   </component>
